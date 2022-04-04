@@ -1,0 +1,7 @@
+C:\Users\nomedeusuário\source\repos\MonitoraIMC\MonitoraIMC\bin\Debug\MonitoraIMC.exe.config
+C:\Users\nomedeusuário\source\repos\MonitoraIMC\MonitoraIMC\bin\Debug\MonitoraIMC.exe
+C:\Users\nomedeusuário\source\repos\MonitoraIMC\MonitoraIMC\bin\Debug\MonitoraIMC.pdb
+C:\Users\nomedeusuário\source\repos\MonitoraIMC\MonitoraIMC\obj\Debug\MonitoraIMC.csproj.AssemblyReference.cache
+C:\Users\nomedeusuário\source\repos\MonitoraIMC\MonitoraIMC\obj\Debug\MonitoraIMC.csproj.CoreCompileInputs.cache
+C:\Users\nomedeusuário\source\repos\MonitoraIMC\MonitoraIMC\obj\Debug\MonitoraIMC.exe
+C:\Users\nomedeusuário\source\repos\MonitoraIMC\MonitoraIMC\obj\Debug\MonitoraIMC.pdb
